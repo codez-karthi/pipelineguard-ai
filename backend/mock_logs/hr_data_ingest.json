@@ -1,0 +1,7 @@
+{
+    "pipeline": "hr_data_ingest",
+    "status": "failed",
+    "rows_loaded": 124,
+    "error": "ConnectionRefused: Failed to connect to port 5432",
+    "run_time": "2026-03-28T08:16:14.596Z"
+}

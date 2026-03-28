@@ -1,0 +1,7 @@
+{
+    "pipeline": "inventory_dbt",
+    "status": "failed",
+    "rows_loaded": 161,
+    "error": "KeyError: 'user_id' not found in source dataset",
+    "run_time": "2026-03-28T08:17:00.733Z"
+}

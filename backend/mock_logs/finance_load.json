@@ -1,0 +1,7 @@
+{
+    "pipeline": "finance_load",
+    "status": "failed",
+    "rows_loaded": 32,
+    "error": "DataQualityError: Column 'region_id' contains >50% null values",
+    "run_time": "2026-03-28T08:16:29.558Z"
+}

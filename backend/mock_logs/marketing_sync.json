@@ -1,0 +1,7 @@
+{
+    "pipeline": "marketing_sync",
+    "status": "failed",
+    "rows_loaded": 184,
+    "error": "DeadlockDetected: Transaction aborted on table 'users'",
+    "run_time": "2026-03-28T08:15:44.545Z"
+}
